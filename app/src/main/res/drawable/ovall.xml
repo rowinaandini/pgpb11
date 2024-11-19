@@ -1,0 +1,8 @@
+<!-- list_item_background.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:top="0dp">
+        <shape android:shape="oval">
+            <solid android:color="#525BFF" />
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,10 @@
+<!-- list_item_background.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:top="0dp">
+        <shape android:shape="rectangle">
+            <size android:height="60dp" /> <!-- Set your desired height here -->
+            <solid android:color="@color/grey" />
+            <corners android:radius="20dp" />
+        </shape>
+    </item>
+</layer-list>
